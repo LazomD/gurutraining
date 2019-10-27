@@ -9,6 +9,7 @@ public class GurutrainingApplication {
 	public static void main(String[] args) {
 		
 		
+		
 		SpringApplication.run(GurutrainingApplication.class, args);
 	}
 }
