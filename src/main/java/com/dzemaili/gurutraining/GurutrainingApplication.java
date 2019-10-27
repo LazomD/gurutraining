@@ -10,6 +10,7 @@ public class GurutrainingApplication {
 		
 		
 		
+		
 		SpringApplication.run(GurutrainingApplication.class, args);
 	}
 }
